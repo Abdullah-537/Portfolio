@@ -47,7 +47,7 @@ export default function Overlay() {
             <a href="mailto:abdullahhhh.166@gmail.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-3 hover:bg-white/10 rounded-full bg-[#0a1628]/80 backdrop-blur-sm border border-white/10 shadow-lg">
               <Mail className="w-6 h-6" />
             </a>
-            <a href="https://linkedin.com/in/abdullahshabbir-245859347" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-3 hover:bg-white/10 rounded-full bg-[#0a1628]/80 backdrop-blur-sm border border-white/10 shadow-lg">
+            <a href="https://www.linkedin.com/in/abdullah-shabbir-245859347" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-3 hover:bg-white/10 rounded-full bg-[#0a1628]/80 backdrop-blur-sm border border-white/10 shadow-lg">
               <Linkedin className="w-6 h-6" />
             </a>
             <a href="https://github.com/Abdullah-537" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-3 hover:bg-white/10 rounded-full bg-[#0a1628]/80 backdrop-blur-sm border border-white/10 shadow-lg">

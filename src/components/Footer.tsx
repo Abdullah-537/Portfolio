@@ -23,7 +23,7 @@ export default function Footer() {
           <a href="mailto:abdullahhhh.166@gmail.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-2 hover:bg-white/5 rounded-full">
             <Mail className="w-5 h-5" />
           </a>
-          <a href="https://linkedin.com/in/abdullahshabbir-245859347" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-2 hover:bg-white/5 rounded-full">
+          <a href="https://www.linkedin.com/in/abdullah-shabbir-245859347" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-2 hover:bg-white/5 rounded-full">
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="https://github.com/Abdullah-537" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff9d00] transition-colors p-2 hover:bg-white/5 rounded-full">
