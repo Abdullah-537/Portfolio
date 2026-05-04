@@ -1,6 +1,9 @@
 import ScrollyCanvas from "@/components/ScrollyCanvas";
 import Overlay from "@/components/Overlay";
 import Projects from "@/components/Projects";
+import Experience from "@/components/Experience";
+import Courses from "@/components/Courses";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -15,8 +18,11 @@ export default function Home() {
         <Overlay />
       </div>
 
-      {/* Projects Grid beneath the scroller */}
+      {/* Content beneath the scroller */}
       <Projects />
+      <Experience />
+      <Courses />
+      <Footer />
     </main>
   );
 }

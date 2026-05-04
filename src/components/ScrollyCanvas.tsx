@@ -17,7 +17,7 @@ export default function ScrollyCanvas() {
     const canvas = ctx.canvas;
     const hRatio = canvas.width / img.width;
     const vRatio = canvas.height / img.height;
-    const ratio = Math.max(hRatio, vRatio);
+    const ratio = Math.max(hRatio, vRatio) * 0.90; // zoomed out a little bit
     const centerShift_x = (canvas.width - img.width * ratio) / 2;
     const centerShift_y = (canvas.height - img.height * ratio) / 2;
 
